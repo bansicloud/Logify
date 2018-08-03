@@ -65,4 +65,7 @@ function logout(){
   //window.alert("Done!");
   }
 
+  console.clear();
+  location.reload();
+
 }
