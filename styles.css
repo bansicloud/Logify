@@ -15,14 +15,18 @@ html {
   height: 100%;
   font-family: Lobster, Trebuchet;
 }
+.favicon {
+  width: 60%;
+  height: auto;
+}
 
 button {
   border: none;
   background-color: white;
-  padding-top: 110px;
-  padding-left: 210px;
-  padding-right: 210px;
-  padding-bottom: 110px;
+  padding-top: 60px;
+  padding-left: 120px;
+  padding-right: 100px;
+  padding-bottom: 20px;
   font-size: 8em;
   border-radius: 75px;
   transition-duration: 0.4s;
