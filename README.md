@@ -22,3 +22,8 @@
   * Wordpress
   * Yahoo
   * Youtube
+
+  - [] Update Mobile CSS
+  - [] Change Logo Gradient
+  - [] Add More POST URL's
+
