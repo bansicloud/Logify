@@ -17,8 +17,9 @@ p {
 }
 
 html {
-  background-color: #08aeea;
-  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  background-color: #8EC5FC;
+background-image: linear-gradient(180deg, #8EC5FC 0%, #E0C3FC 100%);
+
   height: 100%;
   font-family: Lobster, Trebuchet;
 }
@@ -43,9 +44,10 @@ button {
     0 3px 10px 0 rgba(0, 0, 0, 0.3);
 }
 
-
 button:hover {
   --webkit-appearance: none;
   -webkit-box-shadow: 0 80px 160px 0 rgba(0.2, 0.2, 0.2, 0.2),
     0 6px 20px 0 rgba(0, 0, 0, 0.1);
 }
+
+
