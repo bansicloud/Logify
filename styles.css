@@ -1,53 +1,113 @@
-div {
-  text-align: center;
+@media only screen and (min-width:992px){
+
+  div {
+    text-align: center;
+  }
+  
+  p {
+    font-size: 3em;
+    font-family: "Lobster", cursive;
+    letter-spacing: 1px;
+    color: white;
+  }
+  
+  .p1{
+    margin: 0;
+    font-size: 4em;
+    margin-bottom: -15px;
+    margin-top: 25px;
+  }
+  
+  html {
+    background-color: #8EC5FC;
+  background-image: linear-gradient(180deg, #8EC5FC 0%, #E0C3FC 100%);
+  
+    height: 100%;
+    font-family: Lobster, Trebuchet;
+  }
+  .favicon {
+    width: 60%;
+    height: auto;
+  }
+  
+  button {
+    border: none;
+    background-color: white;
+    padding-top: 60px;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    font-size: 8em;
+    border-radius: 75px;
+    transition-duration: 0.4s;
+    font-family: "Lobster", cursive;
+    letter-spacing: 5px;
+    box-shadow: 0 2px 4px 0 rgba(0.2, 0.2, 0.2, 0.2),
+      0 3px 10px 0 rgba(0, 0, 0, 0.3);
+  }
+  
+  button:hover {
+    --webkit-appearance: none;
+    -webkit-box-shadow: 0 80px 160px 0 rgba(0.2, 0.2, 0.2, 0.2),
+      0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  }
+
 }
 
-p {
-  font-size: 3em;
-  font-family: "Lobster", cursive;
-  letter-spacing: 1px;
-  color: white;
-}
-
-.p1{
-  margin: 0;
-  font-size: 4em;
-  margin-bottom: -15px;
-  margin-top: 25px;
-}
-
-html {
-  background-color: #8EC5FC;
-background-image: linear-gradient(180deg, #8EC5FC 0%, #E0C3FC 100%);
-
-  height: 100%;
-  font-family: Lobster, Trebuchet;
-}
-.favicon {
-  width: 60%;
-  height: auto;
-}
-
-button {
-  border: none;
-  background-color: white;
-  padding-top: 60px;
-  padding-left: 120px;
-  padding-right: 100px;
-  padding-bottom: 20px;
-  font-size: 8em;
-  border-radius: 75px;
-  transition-duration: 0.4s;
-  font-family: "Lobster", cursive;
-  letter-spacing: 5px;
-  box-shadow: 0 2px 4px 0 rgba(0.2, 0.2, 0.2, 0.2),
-    0 3px 10px 0 rgba(0, 0, 0, 0.3);
-}
-
-button:hover {
-  --webkit-appearance: none;
-  -webkit-box-shadow: 0 80px 160px 0 rgba(0.2, 0.2, 0.2, 0.2),
-    0 6px 20px 0 rgba(0, 0, 0, 0.1);
+@media (min-width: 481px){
+  div {
+    text-align: center;
+  }
+  
+  p {
+    font-size: 3em;
+    font-family: "Lobster", cursive;
+    letter-spacing: 1px;
+    color: white;
+  }
+  
+  .p1{
+    margin: 0;
+    font-size: 4em;
+    margin-bottom: -15px;
+    margin-top: 25px;
+  }
+  
+  html {
+    background-color: #8EC5FC;
+  background-image: linear-gradient(180deg, #8EC5FC 0%, #E0C3FC 100%);
+  
+    height: 100%;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+    font-family: Lobster, Trebuchet;
+  }
+  .favicon {
+    width: 60%;
+    height: auto;
+  }
+  
+  button {
+    border: none;
+    background-color: white;
+    padding-top: 60px;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    font-size: 8em;
+    border-radius: 75px;
+    transition-duration: 0.4s;
+    font-family: "Lobster", cursive;
+    letter-spacing: 5px;
+    box-shadow: 0 2px 4px 0 rgba(0.2, 0.2, 0.2, 0.2),
+      0 3px 10px 0 rgba(0, 0, 0, 0.3);
+  }
+  
+  button:hover {
+    --webkit-appearance: none;
+    -webkit-box-shadow: 0 80px 160px 0 rgba(0.2, 0.2, 0.2, 0.2),
+      0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  }
 }
 
 
