@@ -36,7 +36,9 @@ button {
     0 6px 20px 0 rgba(0, 0, 0, 0.3);
 }
 
+
 button:hover {
-  box-shadow: 0 480px 860px 0 rgba(0.2, 0.2, 0.3, 0.4),
+  --webkit-appearance: none;
+  -webkit-box-shadow: 0 80px 160px 0 rgba(0.2, 0.2, 0.2, 0.2),
     0 6px 20px 0 rgba(0, 0, 0, 0.3);
 }
