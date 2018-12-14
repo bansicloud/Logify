@@ -64,7 +64,4 @@ function logout(){
 
   }
 
-  console.clear();
-  location.reload();
-
 }
