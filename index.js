@@ -1,5 +1,3 @@
-//© Sai G
-
 function logout(){
   /*
   window.location.href = 'http://www.google.com';
@@ -63,6 +61,7 @@ function logout(){
   frameEmbed.style.border = "none";
   document.body.appendChild(frameEmbed);
   //window.alert("Done!");
+
   }
 
   console.clear();
