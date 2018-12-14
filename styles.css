@@ -20,8 +20,14 @@
 
   #p2{
     font-size: 0.4em;
+    position: absolute;
     bottom: 0;
-    margin-top: 8.5em;
+    width:99%;
+    text-align:center;
+  }
+
+  a{
+    text-decoration: none;
   }
   
   html {
@@ -82,11 +88,16 @@
   }
 
   #p2{
-    font-size: 0.4em;
+    font-size: 0.6em;
+    position: absolute;
     bottom: 0;
-    margin-top: 8.5em;
+    width:99%;
+    text-align:center;
   }
-  
+
+  a{
+    text-decoration: none;
+  }
   
   
   html {
