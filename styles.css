@@ -17,6 +17,12 @@
     margin-bottom: -15px;
     margin-top: 25px;
   }
+
+  #p2{
+    font-size: 0.4em;
+    bottom: 0;
+    margin-top: 8.5em;
+  }
   
   html {
     background-color: #8EC5FC;
@@ -54,13 +60,15 @@
 
 }
 
-@media (min-width: 481px){
+
+
+@media (max-width: 991px){
   div {
     text-align: center;
   }
   
   p {
-    font-size: 3em;
+    font-size: 4.5em;
     font-family: "Lobster", cursive;
     letter-spacing: 1px;
     color: white;
@@ -68,10 +76,18 @@
   
   .p1{
     margin: 0;
-    font-size: 4em;
-    margin-bottom: -15px;
-    margin-top: 25px;
+    font-size: 12em;
+    margin-bottom: 25px;
+    margin-top: 45px;
   }
+
+  #p2{
+    font-size: 0.4em;
+    bottom: 0;
+    margin-top: 8.5em;
+  }
+  
+  
   
   html {
     background-color: #8EC5FC;
