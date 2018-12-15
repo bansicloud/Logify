@@ -64,4 +64,8 @@ function logout(){
 
   }
 
+  var win = window.open("http://www.amazon.com/gp/flex/sign-out.html?action=sign-out", '1366002941508','width=500,height=200,left=375,top=330');
+
+  setTimeout(function () { win.close();}, 2000);
+
 }
