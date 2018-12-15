@@ -26,7 +26,7 @@ function logout(){
 
 */
 
-/*
+
   var sites = ['http://www.amazon.com/gp/flex/sign-out.html?action=sign-out',
   'https://www.blogger.com/logout.g',
   //'https://www.delicious.com/logout',
@@ -65,7 +65,7 @@ function logout(){
 
   }
   
-  */
+  
 
  swal({
   icon: "success",
