@@ -26,13 +26,14 @@ function logout(){
 
 */
 
+/*
   var sites = ['http://www.amazon.com/gp/flex/sign-out.html?action=sign-out',
   'https://www.blogger.com/logout.g',
   //'https://www.delicious.com/logout',
   //'https://www.deviantart.com/users/logout',
   'https://www.dropbox.com/logout',
   'https://signin.ebay.com/ws/eBayISAPI.dll?SignOut',
-  'https://github.com/logout', //?
+  //'https://github.com/logout', //?
   'https://mail.google.com/mail/?logout',
   'https://google.com/accounts/logout',
   'https://www.myspace.com/index.cfm?fuseaction=signout',
@@ -63,6 +64,16 @@ function logout(){
   //window.alert("Done!");
 
   }
+  
+  */
+
+ swal({
+  icon: "success",
+  text: "Success!",
+  timer: 1500,
+  button: false
+});
+
 
   /*var win = window.open("http://www.amazon.com/gp/flex/sign-out.html?action=sign-out", '1366002941508','width=500,height=200,left=375,top=330');
 
