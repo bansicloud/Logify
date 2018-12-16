@@ -1,15 +1,11 @@
 function logout(){
 
      var sites = ['http://www.amazon.com/gp/flex/sign-out.html?action=sign-out',
-    'https://www.blogger.com/logout.g',
-    //'https://www.delicious.com/logout',
-    //'https://www.deviantart.com/users/logout',
     'https://www.dropbox.com/logout',
-    'https://signin.ebay.com/ws/eBayISAPI.dll?SignOut',
-    //'https://github.com/logout', //?
     'https://mail.google.com/mail/?logout',
     'https://google.com/accounts/logout',
     'https://www.myspace.com/index.cfm?fuseaction=signout',
+    'https://www.office.com/logout',
     'https://www.netflix.com/Logout',
     'https://www.nytimes.com/logout',
     'https://secure.skype.com/account/logout',

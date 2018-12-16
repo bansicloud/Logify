@@ -1,16 +1,16 @@
 # Logify
 
-### [Live Website](https://saig18.github.io/Logify/)
+### [Live Website](https://logify.ga/)
+
+### [Product Hunt](https://logify.ga/)
 
 ## Supported Websites
-  * Blogger
-  * Delicious
-  * Deviant Art
   * Dropbox
-  * Ebay
+  * Drive
   * Github
   * Google
   * MySpace
+  * Microsoft Office
   * Netflix
   * NY Times
   * Skype
