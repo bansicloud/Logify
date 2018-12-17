@@ -40,5 +40,7 @@ function logout(){
     button: false
     });
 
+    console.clear();
+
    }
 

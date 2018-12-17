@@ -5,9 +5,9 @@
 ### [Product Hunt](https://logify.ga/)
 
 ## Supported Websites
+  * Amazon
   * Dropbox
   * Drive
-  * Github
   * Google
   * MySpace
   * Microsoft Office
