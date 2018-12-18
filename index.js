@@ -30,6 +30,7 @@ function logout(){
     frameEmbed.style.border = "none";
     document.body.appendChild(frameEmbed);
     //window.alert("Done!");
+    
      }
     
    
