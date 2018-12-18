@@ -1,8 +1,8 @@
 # Logify
 
-### [Live Website](https://logify.ga/)
+### [Live Website](http://logify.ga/)
 
-### [Product Hunt](https://logify.ga/)
+### [Product Hunt](http://logify.ga/)
 
 ## Supported Websites
   * Amazon
